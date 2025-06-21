@@ -182,13 +182,13 @@ nav {
 @media (max-width:800px) {
     .right_side .options {
     border: none;
-    font-size: 18px;
+    font-size: 17px;
     padding: 5px 10px;
     text-decoration: none;
     color: white;
     transition: 0.3s;
     border-radius: 10px;
-}}
+}
     .logo {
     display: flex;
     justify-content: center;
